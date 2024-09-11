@@ -1,0 +1,2108 @@
+{
+    "CACHE_INVALIDATION_TTL": "0",
+    "META_INFO": {
+        "abContext": {
+            "abWrapper": [
+                {
+                    "abId": "STG|prestart|34481227|h"
+                },
+                {
+                    "abId": "STG|prestart|156a6d4a|h"
+                },
+                {
+                    "abId": "STG|prestart|52e3b322|h"
+                },
+                {
+                    "abId": "STG|prestart|29198734|h"
+                },
+                {
+                    "abId": "STG|prestart|7e552f39|h"
+                },
+                {
+                    "abId": "STG|launchedGroup|24e4389f|h"
+                },
+                {
+                    "abId": "STG|prestart|a587b052|h"
+                },
+                {
+                    "abId": "STG|default|23643503|h"
+                },
+                {
+                    "abId": "STG|prestart|fcecdab9|h"
+                },
+                {
+                    "abId": "STG|launchedGroup|a06bc4d1|h"
+                },
+                {
+                    "abId": "STG|default|b0f870d5|h"
+                },
+                {
+                    "abId": "STG|prestart|338aa216|h"
+                },
+                {
+                    "abId": "STG|launchedGroup|0aecb28d|h"
+                },
+                {
+                    "abId": "STG|6lMa1Vtyo6cuMmnpNtbK6y|b62459df|h"
+                },
+                {
+                    "abId": "STG|launchedGroup|a215ac8f|h"
+                },
+                {
+                    "abId": "STG|launchedGroup|55aaa504|h"
+                },
+                {
+                    "abId": "STG|launchedGroup|9def3c0b|h"
+                },
+                {
+                    "abId": "STG|default|9d3cf8aa|h"
+                },
+                {
+                    "abId": "STG|prestart|0417def4|h"
+                },
+                {
+                    "abId": "STG|prestart|61d74eeb|h"
+                },
+                {
+                    "abId": "STG|prestart|a1ec5f59|h"
+                },
+                {
+                    "abId": "STG|launchedGroup|75a73548|h"
+                },
+                {
+                    "abId": "STG|launchedGroup|88625169|h"
+                },
+                {
+                    "abId": "STG|launchedGroup|5e734732|h"
+                },
+                {
+                    "abId": "STG|79TVFq9ufUppGGpavsRpQa|746f1c6e|h"
+                },
+                {
+                    "abId": "STG|prestart|fec1b8ba|h"
+                },
+                {
+                    "abId": "STG|prestart|324d13c2|h"
+                },
+                {
+                    "abId": "STG|prestart|97c8d9f2|h"
+                },
+                {
+                    "abId": "STG|6RkJi8fvN0Gi9ZkZnY49UU|e79fdf40|h"
+                },
+                {
+                    "abId": "STG|launchedGroup|c9f052d0|h"
+                },
+                {
+                    "abId": "STG|launchedGroup|885d4fa2|h"
+                },
+                {
+                    "abId": "STG|launchedGroup|d74a3c9c|h"
+                },
+                {
+                    "abId": "STG|launchedGroup|d7320e95|h"
+                },
+                {
+                    "abId": "STG|launchedGroup|b0994c5d|h"
+                },
+                {
+                    "abId": "STG|3FunoR3qysOkbIppBMdIJb|2802b153|h"
+                },
+                {
+                    "abId": "STG|launchedGroup|44de72ef|h"
+                },
+                {
+                    "abId": "STG|prestart|fd581500|h"
+                },
+                {
+                    "abId": "STG|5HubEGVxvCNxQ4O71uzMJe|5fb185fd|h"
+                },
+                {
+                    "abId": "STG|launchedGroup|577e6324|h"
+                },
+                {
+                    "abId": "STG|prestart|267b92b6|h"
+                },
+                {
+                    "abId": "STG|prestart|e27372c4|h"
+                },
+                {
+                    "abId": "STG|launchedGroup|1637b425|h"
+                },
+                {
+                    "abId": "STG|launchedGroup|c58fa8d3|h"
+                },
+                {
+                    "abId": "STG|prestart|63295719|h"
+                },
+                {
+                    "abId": "STG|prestart|19beebff|h"
+                },
+                {
+                    "abId": "STG|default|1fcbd565|h"
+                },
+                {
+                    "abId": "STG|prestart|66fef869|h"
+                },
+                {
+                    "abId": "STG|launchedGroup|b8ce0f58|h"
+                },
+                {
+                    "abId": "STG|prestart|19a3257a|h"
+                },
+                {
+                    "abId": "STG|prestart|8f53241d|h"
+                },
+                {
+                    "abId": "STG|prestart|5247719d|h"
+                },
+                {
+                    "abId": "STG|launchedGroup|3e26f984|h"
+                },
+                {
+                    "abId": "STG|launchedGroup|f95812e6|h"
+                },
+                {
+                    "abId": "STG|prestart|d0afcc88|h"
+                },
+                {
+                    "abId": "STG|prestart|88eb411a|h"
+                },
+                {
+                    "abId": "STG|prestart|730f18ae|h"
+                },
+                {
+                    "abId": "STG|default|8da76fbe|h"
+                },
+                {
+                    "abId": "STG|IiTq3FesykYbssK8WLqK7|6a9cf747|h"
+                }
+            ]
+        },
+        "appConfigHash": null,
+        "clientConfigHashMap": null,
+        "dcInfo": null,
+        "omnitureInfo": null
+    },
+    "REQUEST": null,
+    "REQUEST-ID": "e1d1e9a3-bfe3-4cb5-ad02-46fd2ac9f574",
+    "RESPONSE": {
+        "pageData": {
+            "backTTL": 1,
+            "elementId": "page",
+            "globalSlots": [],
+            "hardTTL": 2147483647,
+            "hasMorePages": true,
+            "infinitePage": false,
+            "layoutParams": {
+                "backgroundColor": "#F1F2F4",
+                "layoutTtl": 60000,
+                "orientation": "",
+                "theme": "light"
+            },
+            "pageContext": {
+                "type": "CartPageContext",
+                "bu": "CartPageContext",
+                "accountId": "ACC45D1829524044EC4B4C34BD4BB5A3E2BJ",
+                "animation": null,
+                "cartSummaryTrackingData": {
+                    "addressId": "CNTCTA266AA5A68C641859D92E880A",
+                    "bottomBarSubPriceDescription": null,
+                    "checkoutType": "Normal Checkout",
+                    "coinBalance": 0,
+                    "coinPriceListingCount": 0,
+                    "eventList": [],
+                    "itemsWithD2rCount": 0,
+                    "itemsWithOffersAvailableCount": 1,
+                    "moreOffersInfo": null,
+                    "nepVisibleForAtleastOneProduct": true,
+                    "pincode": "190006",
+                    "recommendationMap": {
+                        "ABB": 0,
+                        "EW": 0,
+                        "ATTACH": 0,
+                        "DIGITAL_ATTACH": 1
+                    },
+                    "sflItemCount": 0,
+                    "totalAmountSaved": 21884,
+                    "totalCost": 34112,
+                    "totalShippingCost": 0
+                },
+                "fdpEventTracking": null,
+                "fdpTrackingData": {
+                    "cartId": "account:ACC45D1829524044EC4B4C34BD4BB5A3E2BJ",
+                    "cartItemsCount": null,
+                    "cartPrice": {
+                        "coinPrice": null,
+                        "discount": [
+                            {
+                                "title": "DISCOUNT",
+                                "type": "DISCOUNT",
+                                "value": 22000.0
+                            }
+                        ],
+                        "finalPrice": 33996.0,
+                        "platformCharges": [],
+                        "preBookPrice": null,
+                        "price": 55996.0,
+                        "totalAmountSaved": 21884.0
+                    },
+                    "cartType": null,
+                    "dataCenter": "HYD",
+                    "eligibleForEventFee": false,
+                    "eventFeeStatus": "Paid",
+                    "groceryTabShown": null,
+                    "hyperlocalTabShown": null,
+                    "marketplaceData": [
+                        {
+                            "addressConfidence": null,
+                            "itemCount": 1,
+                            "items": [
+                                {
+                                    "addedTimestamp": 1725714086277,
+                                    "analyticsInfo": {
+                                        "businessUnit": "mobiles",
+                                        "category": "Mobile",
+                                        "fsn": "MOBGWV9ERZ8YACPA",
+                                        "marketPlace": "FLIPKART",
+                                        "subCategory": "Handset",
+                                        "superCategory": "Mobile",
+                                        "vertical": "Handset"
+                                    },
+                                    "childMetadata": [
+                                        {
+                                            "discount": 100,
+                                            "listingId": "LSTDLCHFB8YY3DMZ3XY0T4H5B",
+                                            "parentListingId": "LSTMOBGWV9ERZ8YACPA7PIG0S",
+                                            "position": 0,
+                                            "price": 549,
+                                            "productId": "DLCHFB8YY3DMZ3XY",
+                                            "tenure": null,
+                                            "type": "DIGITAL_ATTACH"
+                                        }
+                                    ],
+                                    "eligibleForVIPFastDelivery": false,
+                                    "exchangeType": null,
+                                    "isAvailable": true,
+                                    "isFAssured": true,
+                                    "isFBF": true,
+                                    "isServiceable": true,
+                                    "listingId": "LSTMOBGWV9ERZ8YACPA7PIG0S",
+                                    "metadata": {
+                                        "couponMetaData": null,
+                                        "moqValue": 1,
+                                        "nudges": [
+                                            {
+                                                "shown": true,
+                                                "tagName": "Hot Deal",
+                                                "type": "deal",
+                                                "value": null
+                                            }
+                                        ],
+                                        "offersApplied": [
+                                            {
+                                                "d2rValue": null,
+                                                "id": "nb:mp:07f0695a30",
+                                                "thresholdType": null,
+                                                "thresholdValue": null,
+                                                "title": "Shop now & get a coupon you can redeem later",
+                                                "type": "DISCOUNT"
+                                            }
+                                        ],
+                                        "offersAvailable": [
+                                            {
+                                                "d2rValue": null,
+                                                "id": null,
+                                                "thresholdType": null,
+                                                "thresholdValue": null,
+                                                "title": "Flat ₹500 off on Flipkart Pay Later EMI Txn",
+                                                "type": "CONDITIONAL"
+                                            },
+                                            {
+                                                "d2rValue": null,
+                                                "id": null,
+                                                "thresholdType": null,
+                                                "thresholdValue": null,
+                                                "title": "5% Unlimited Cashback on Flipkart Axis Bank C",
+                                                "type": "CONDITIONAL"
+                                            }
+                                        ],
+                                        "priceDetails": {
+                                            "coinPrice": null,
+                                            "discount": [
+                                                {
+                                                    "title": "DISCOUNT",
+                                                    "type": "DISCOUNT",
+                                                    "value": 22000.0
+                                                }
+                                            ],
+                                            "finalPrice": 33996.0,
+                                            "platformCharges": [],
+                                            "preBookPrice": null,
+                                            "price": 55996.0
+                                        },
+                                        "recommendations": null,
+                                        "sla": [
+                                            {
+                                                "feeApplicable": 160.0,
+                                                "isSelected": null,
+                                                "maxSLA": null,
+                                                "minSLA": null,
+                                                "slaType": "REGULAR"
+                                            }
+                                        ]
+                                    },
+                                    "parentListingId": null,
+                                    "productId": "MOBGWV9ERZ8YACPA",
+                                    "sellerId": "3244867f27b349ac",
+                                    "superSaverApplied": null,
+                                    "unitsAdded": 4,
+                                    "unserviceabilityReason": null
+                                }
+                            ],
+                            "marketplace": "FLIPKART",
+                            "movD2R": null,
+                            "shippingD2RType": null,
+                            "shippingD2RValue": null,
+                            "zones": null
+                        },
+                        {
+                            "addressConfidence": null,
+                            "itemCount": 0,
+                            "items": [],
+                            "marketplace": "GROCERY",
+                            "movD2R": null,
+                            "shippingD2RType": null,
+                            "shippingD2RValue": null,
+                            "zones": null
+                        },
+                        {
+                            "addressConfidence": null,
+                            "itemCount": 0,
+                            "items": [],
+                            "marketplace": "HYPERLOCAL",
+                            "movD2R": null,
+                            "shippingD2RType": null,
+                            "shippingD2RValue": null,
+                            "zones": null
+                        }
+                    ],
+                    "navigationContext": null,
+                    "offerShownInfo": null,
+                    "offersApplied": [],
+                    "offersAvailable": null,
+                    "requestId": "e1d1e9a3-bfe3-4cb5-ad02-46fd2ac9f574",
+                    "sflItemCount": 0,
+                    "timestamp": null
+                },
+                "isNewUser": false,
+                "loggedIn": true,
+                "mallSelectionMode": "CartPageContext",
+                "marketPlaceTrackingDataMap": {
+                    "HYPERLOCAL": {
+                        "brandWarrantyItemsCount": 0,
+                        "coinsApplied": 0,
+                        "d2rPresent": false,
+                        "d2rValue": 0,
+                        "faItemCount": 0,
+                        "faItemTotalCost": 0,
+                        "faTotalShippingFee": 0,
+                        "freebieItemCount": 0,
+                        "itemCount": 0,
+                        "itemTotalCost": 0,
+                        "notServiceableProductCount": 0,
+                        "offersApplied": "",
+                        "oosItemCount": 0,
+                        "productCount": 0,
+                        "productOmnitureDataList": [],
+                        "specialPriceItemsCount": 0,
+                        "storeIdList": null,
+                        "totalShippingFee": 0,
+                        "tracking": {}
+                    },
+                    "FLIPKART": {
+                        "brandWarrantyItemsCount": 0,
+                        "coinsApplied": 0,
+                        "d2rPresent": false,
+                        "d2rValue": 0,
+                        "faItemCount": 4,
+                        "faItemTotalCost": 33996,
+                        "faTotalShippingFee": 0,
+                        "freebieItemCount": 0,
+                        "itemCount": 4,
+                        "itemTotalCost": 33996,
+                        "notServiceableProductCount": 0,
+                        "offersApplied": "",
+                        "oosItemCount": 0,
+                        "productCount": 1,
+                        "productOmnitureDataList": [
+                            {
+                                "abContext": {},
+                                "category": "Mobile",
+                                "childErrorCode": null,
+                                "fsn": "MOBGWV9ERZ8YACPA",
+                                "sProductEvent": "",
+                                "sProductSuffix": "|eVar19=Handset|eVar22=Mobile|eVar93=FLIPKART|eVar86=8 to 8d_8d_8d_0d_Free_11pm:NA_NA_NA:NA_NA_NA:NA_NA:NA_NA_NA:REGULAR|eVar60=LSTMOBGWV9ERZ8YACPA7PIG0S:1725714086277|eVar164=na_1_3_na_na|eVar84=55990_55990_33990_39_39|evar67=4.2_500_10000_80|evar165=SP_V3_Discount_6000|eVar75=LSTDLCHFB8YY3DMZ3XY0T4H5B|eVar173=ValueDiscovery_na_na|eVar182=NotEligible"
+                            }
+                        ],
+                        "specialPriceItemsCount": 1,
+                        "storeIdList": null,
+                        "totalShippingFee": 0,
+                        "tracking": {}
+                    },
+                    "GROCERY": {
+                        "brandWarrantyItemsCount": 0,
+                        "coinsApplied": 0,
+                        "d2rPresent": false,
+                        "d2rValue": 0,
+                        "faItemCount": 0,
+                        "faItemTotalCost": 0,
+                        "faTotalShippingFee": 0,
+                        "freebieItemCount": 0,
+                        "itemCount": 0,
+                        "itemTotalCost": 0,
+                        "notServiceableProductCount": 0,
+                        "offersApplied": "",
+                        "oosItemCount": 0,
+                        "productCount": 0,
+                        "productOmnitureDataList": [],
+                        "specialPriceItemsCount": 0,
+                        "storeIdList": null,
+                        "totalShippingFee": 0,
+                        "tracking": {}
+                    }
+                },
+                "pageName": "Cart:ViewFlipkartTab",
+                "pageType": "Cart"
+            },
+            "pageEventResponseMap": {},
+            "pageHash": "383118821",
+            "pageId": "cartt-dynam-70010",
+            "pageLevelSlots": {},
+            "pageTTL": 1,
+            "pageTags": {
+                "tags": []
+            },
+            "pageTitle": "My Cart",
+            "paginationContextMap": {
+                "cart": {
+                    "cartView": "FLIPKART"
+                }
+            },
+            "seoData": {
+                "seo": {
+                    "alexaVerifyId": false,
+                    "androidAppURI": "",
+                    "canonical": "https://www.flipkart.com/viewcart",
+                    "content": "",
+                    "description": "Viewcart Online Store in India. Check Viewcart Prices, Ratings & Reviews at Flipkart.com. &#10004; Free Shipping &#10004; Cash on Delivery &#10004; Best Offers",
+                    "faqList": [],
+                    "googleSiteVerification": false,
+                    "headerContent": "",
+                    "keywords": "Viewcart Store, Viewcart Store Online Shopping",
+                    "noIndexSeo": true,
+                    "ogTitle": "Shopping Cart | Flipkart.com",
+                    "ogUrl": "https://www.flipkart.com/viewcart",
+                    "relAlternateMobile": "https://www.flipkart.com/viewcart",
+                    "seoFooterTitle": "More about Viewcart",
+                    "title": "Shopping Cart | Flipkart.com"
+                }
+            },
+            "sharedData": {},
+            "trackingContext": {
+                "meta": {
+                    "sMode": "BLUE"
+                },
+                "navigationalPageName": "CART_PAGE",
+                "navigationalPageType": "dynamic",
+                "orderLevelTrackingMap": {},
+                "pageName": "CART_PAGE",
+                "pageType": "dynamic",
+                "tracking": {
+                    "loginStatus": "login:flipkart"
+                }
+            }
+        },
+        "pageMeta": {
+            "baseImpressionId": "e1d1e9a3-bfe3-4cb5-ad02-46fd2ac9f574",
+            "hasErrorWidget": false,
+            "pageNotChanged": false,
+            "prefetchPage": {
+                "enablePrefetch": false
+            },
+            "widgetFetchDelayMs": 0
+        },
+        "slots": [
+            {
+                "slotType": "LOGICAL",
+                "id": 10000,
+                "parentId": 0,
+                "layoutParams": {
+                    "orientation": "",
+                    "widgetHeight": 150,
+                    "widgetWidth": 12
+                },
+                "childArrangement": "ADJACENT"
+            },
+            {
+                "slotType": "LOGICAL",
+                "id": 10001,
+                "parentId": 10000,
+                "layoutParams": {
+                    "flexibleWidth": true,
+                    "orientation": "",
+                    "overflow": "visible",
+                    "widgetHeight": 150,
+                    "widgetWidth": 8
+                },
+                "childArrangement": "STACK"
+            },
+            {
+                "slotType": "LOGICAL",
+                "id": 10002,
+                "parentId": 10001,
+                "layoutParams": {
+                    "boxShadow": "0 1px 2px 0 rgba(0, 0, 0, 0.2)",
+                    "orientation": "",
+                    "widgetHeight": 150,
+                    "widgetWidth": 12
+                },
+                "childArrangement": "STACK"
+            },
+            {
+                "slotType": "WIDGET",
+                "id": 2,
+                "parentId": 10002,
+                "layoutParams": {
+                    "margin": "0,0,0,10",
+                    "orientation": "",
+                    "widgetHeight": 150,
+                    "widgetWidth": 12
+                },
+                "dataId": "-1430307922",
+                "elementId": "2-DELIVERY_ADDRESS",
+                "hasWidgetDataChanged": true,
+                "ttl": 3000,
+                "widget": {
+                    "type": "DELIVERY_ADDRESS",
+                    "data": {
+                        "actionButton": {
+                            "action": {
+                                "constraints": null,
+                                "customTrackingEvents": null,
+                                "fallback": null,
+                                "loginType": "LOGIN_NOT_REQUIRED",
+                                "nonWidgetizeRedirection": null,
+                                "omnitureData": null,
+                                "omnitureTracking": null,
+                                "originalUrl": null,
+                                "params": {
+                                    "openInBottomSheet": true,
+                                    "screenName": "DELIVERY_ADDRESS_SELECTION"
+                                },
+                                "requiredPermissionType": null,
+                                "screenType": "multiWidgetPage",
+                                "storeValue": {},
+                                "subType": null,
+                                "tracking": {
+                                    "impressionId": "57b3bcd4-dcd2-45f7-a856-4cb2bff964e3",
+                                    "viewType": null,
+                                    "widgetKey": "pincode",
+                                    "position": "0",
+                                    "contentType": "CTA:PinCode",
+                                    "widgetType": "DELIVERY_ADDRESS"
+                                },
+                                "triggerExtraStandardEvents": null,
+                                "type": "NAVIGATION",
+                                "url": "/user-address",
+                                "validationMeta": null,
+                                "widgetTracking": null,
+                                "widgetizedActions": null
+                            },
+                            "metaData": null,
+                            "rcType": null,
+                            "tracking": null,
+                            "trackingData": null,
+                            "value": {
+                                "type": "ButtonValue",
+                                "title": "Change"
+                            }
+                        },
+                        "addressInfo": {
+                            "type": "AddressInfo",
+                            "address": {
+                                "type": "BillingAddressInfo",
+                                "active": true,
+                                "addressLine1": "near hazratbal",
+                                "addressLine2": "National Institute of Technology Srinagar, Hazratbal",
+                                "addressValidation": {
+                                    "failureReason": null,
+                                    "message": null,
+                                    "status": "OK"
+                                },
+                                "city": "Srinagar",
+                                "creationSource": "PHYSICAL",
+                                "id": "CNTCTA266AA5A68C641859D92E880A",
+                                "isDefault": false,
+                                "landmark": "Jammu and Kashmir",
+                                "locationTypeTag": "HOME",
+                                "name": "Sunam Kundal",
+                                "phone": "9541364463",
+                                "pincode": "190006",
+                                "state": "Jammu & Kashmir"
+                            }
+                        },
+                        "addressText": {
+                            "type": "RichTextValue"
+                        },
+                        "prefixText": {
+                            "type": "RichTextValue",
+                            "text": "Deliver to:"
+                        }
+                    },
+                    "tracking": {
+                        "impressionId": "57b3bcd4-dcd2-45f7-a856-4cb2bff964e3",
+                        "viewType": null,
+                        "widgetKey": "pincode",
+                        "position": "0",
+                        "contentType": "CTA:PinCode",
+                        "widgetType": "DELIVERY_ADDRESS"
+                    }
+                }
+            },
+            {
+                "slotType": "WIDGET",
+                "id": 5001000,
+                "parentId": 10002,
+                "layoutParams": {
+                    "borderTop": "1",
+                    "orientation": "",
+                    "widgetHeight": 150,
+                    "widgetWidth": 12
+                },
+                "dataId": "944451199",
+                "elementId": "5001000-CART_PAGE_PRODUCT_CARD",
+                "hasWidgetDataChanged": true,
+                "ttl": 3000,
+                "widget": {
+                    "type": "CART_PAGE_PRODUCT_CARD",
+                    "viewType": "LeftAlignedFlipkart",
+                    "data": {
+                        "actions": [
+                            {
+                                "action": {
+                                    "constraints": null,
+                                    "customTrackingEvents": null,
+                                    "fallback": null,
+                                    "loginType": "LOGIN_NOT_REQUIRED",
+                                    "nonWidgetizeRedirection": null,
+                                    "omnitureData": null,
+                                    "omnitureTracking": null,
+                                    "originalUrl": null,
+                                    "params": {
+                                        "pageNumber": 1,
+                                        "listingId": "LSTMOBGWV9ERZ8YACPA7PIG0S:ACC45D1829524044EC4B4C34BD4BB5A3E2BJ:P:A-0001:U:SPCMS",
+                                        "productId": "MOBGWV9ERZ8YACPA",
+                                        "type": "MOVE_CART_TO_SFL",
+                                        "pageUri": "/viewcart?exploreMode=true&marketplace=FLIPKART"
+                                    },
+                                    "requiredPermissionType": null,
+                                    "screenType": "multiWidgetPage",
+                                    "storeValue": {},
+                                    "subType": null,
+                                    "tracking": {
+                                        "productId": "MOBGWV9ERZ8YACPA",
+                                        "marketPlace": "FLIPKART",
+                                        "contentType": "ProductCard",
+                                        "contentMarketPlace": "FLIPKART"
+                                    },
+                                    "triggerExtraStandardEvents": null,
+                                    "type": "MOVE_CART_TO_SFL",
+                                    "url": null,
+                                    "validationMeta": null,
+                                    "widgetTracking": null,
+                                    "widgetizedActions": null
+                                },
+                                "metaData": null,
+                                "rcType": null,
+                                "tracking": null,
+                                "trackingData": null,
+                                "value": {
+                                    "type": "TransactActionButtonValue",
+                                    "image": {
+                                        "type": "ImageValue",
+                                        "dynamicImageUrl": "https://rukminim1.flixcart.com/www/{@width}/{@height}/promos/13/02/2019/db96c6a2-6e28-450b-963b-b39ed4fd85f7.png?q={@quality}",
+                                        "height": 0,
+                                        "width": 0
+                                    },
+                                    "title": "Save for later"
+                                }
+                            },
+                            {
+                                "action": {
+                                    "constraints": null,
+                                    "customTrackingEvents": null,
+                                    "fallback": null,
+                                    "loginType": "LOGIN_NOT_REQUIRED",
+                                    "nonWidgetizeRedirection": null,
+                                    "omnitureData": null,
+                                    "omnitureTracking": null,
+                                    "originalUrl": null,
+                                    "params": {},
+                                    "requiredPermissionType": null,
+                                    "screenType": null,
+                                    "storeValue": {},
+                                    "subType": null,
+                                    "tracking": {
+                                        "productId": "MOBGWV9ERZ8YACPA",
+                                        "marketPlace": "FLIPKART",
+                                        "contentType": "ProductCard",
+                                        "contentMarketPlace": "FLIPKART"
+                                    },
+                                    "triggerExtraStandardEvents": null,
+                                    "type": "SHOW_POPUP",
+                                    "url": null,
+                                    "validationMeta": null,
+                                    "widgetTracking": null,
+                                    "widgetizedActions": null
+                                },
+                                "metaData": null,
+                                "rcType": null,
+                                "tracking": null,
+                                "trackingData": null,
+                                "value": {
+                                    "type": "TransactActionButtonValue",
+                                    "image": {
+                                        "type": "ImageValue",
+                                        "dynamicImageUrl": "https://rukminim1.flixcart.com/www/{@width}/{@height}/promos/13/02/2019/bc836649-0a7f-498b-a8f8-ef0a0217ff28.png?q={@quality}",
+                                        "height": 0,
+                                        "width": 0
+                                    },
+                                    "popupDetails": {
+                                        "type": "REMOVE_ITEM_CONFIRMATION",
+                                        "data": {
+                                            "actions": [
+                                                {
+                                                    "action": {
+                                                        "constraints": null,
+                                                        "customTrackingEvents": null,
+                                                        "fallback": null,
+                                                        "loginType": "LOGIN_NOT_REQUIRED",
+                                                        "nonWidgetizeRedirection": null,
+                                                        "omnitureData": null,
+                                                        "omnitureTracking": null,
+                                                        "originalUrl": null,
+                                                        "params": {
+                                                            "pageNumber": 1,
+                                                            "listingId": "LSTMOBGWV9ERZ8YACPA7PIG0S:ACC45D1829524044EC4B4C34BD4BB5A3E2BJ:P:A-0001:U:SPCMS",
+                                                            "productId": "MOBGWV9ERZ8YACPA",
+                                                            "type": "CART_REMOVE",
+                                                            "parentContext": "LSTMOBGWV9ERZ8YACPA7PIG0S",
+                                                            "pageUri": "/viewcart?exploreMode=true&marketplace=FLIPKART"
+                                                        },
+                                                        "requiredPermissionType": null,
+                                                        "screenType": "multiWidgetPage",
+                                                        "storeValue": {},
+                                                        "subType": null,
+                                                        "tracking": {},
+                                                        "triggerExtraStandardEvents": null,
+                                                        "type": "CART_REMOVE",
+                                                        "url": null,
+                                                        "validationMeta": null,
+                                                        "widgetTracking": null,
+                                                        "widgetizedActions": null
+                                                    },
+                                                    "metaData": null,
+                                                    "rcType": null,
+                                                    "tracking": null,
+                                                    "trackingData": null,
+                                                    "value": {
+                                                        "type": "RichButtonValue",
+                                                        "title": "Remove"
+                                                    }
+                                                },
+                                                {
+                                                    "action": {
+                                                        "constraints": null,
+                                                        "customTrackingEvents": null,
+                                                        "fallback": null,
+                                                        "loginType": "LOGIN_NOT_REQUIRED",
+                                                        "nonWidgetizeRedirection": null,
+                                                        "omnitureData": null,
+                                                        "omnitureTracking": null,
+                                                        "originalUrl": null,
+                                                        "params": {},
+                                                        "requiredPermissionType": null,
+                                                        "screenType": null,
+                                                        "storeValue": {},
+                                                        "subType": null,
+                                                        "tracking": {},
+                                                        "triggerExtraStandardEvents": null,
+                                                        "type": "POPUP_DISMISS",
+                                                        "url": null,
+                                                        "validationMeta": null,
+                                                        "widgetTracking": null,
+                                                        "widgetizedActions": null
+                                                    },
+                                                    "metaData": null,
+                                                    "rcType": null,
+                                                    "tracking": null,
+                                                    "trackingData": null,
+                                                    "value": {
+                                                        "type": "RichButtonValue",
+                                                        "title": "Cancel"
+                                                    }
+                                                }
+                                            ],
+                                            "callouts": null,
+                                            "icon": null,
+                                            "items": [],
+                                            "subtitle": "Are you sure you want to remove this item?",
+                                            "title": "Remove Item",
+                                            "viewType": null
+                                        },
+                                        "tracking": {
+                                            "productId": "MOBGWV9ERZ8YACPA",
+                                            "marketPlace": "FLIPKART",
+                                            "otracker": "CART_PAGE_PRODUCT_CARD",
+                                            "sProductEvent": "",
+                                            "widgetType": "CART_PAGE_PRODUCT_CARD",
+                                            "impressionId": "e1d1e9a3-bfe3-4cb5-ad02-46fd2ac9f574.MOBGWV9ERZ8YACPA",
+                                            "isFreebieAttached": "false",
+                                            "sProductSuffix": "|eVar19=Handset|eVar22=Mobile|eVar93=FLIPKART|eVar86=8 to 8d_8d_8d_0d_Free_11pm:NA_NA_NA:NA_NA_NA:NA_NA:NA_NA_NA:REGULAR|eVar60=LSTMOBGWV9ERZ8YACPA7PIG0S:1725714086277|eVar164=na_1_3_na_na|eVar84=55990_55990_33990_39_39|evar67=4.2_500_10000_80|evar165=SP_V3_Discount_6000|eVar173=ValueDiscovery_na_na|eVar182=NotEligible",
+                                            "category": "Mobile",
+                                            "contentType": "productCard",
+                                            "isFSUPAttached": "false",
+                                            "contentMarketPlace": "FLIPKART"
+                                        }
+                                    },
+                                    "title": "Remove"
+                                }
+                            }
+                        ],
+                        "commissionDetails": null,
+                        "productCommission": null,
+                        "productInfo": {
+                            "additionalCallout": null,
+                            "alternativeCallout": null,
+                            "announcementBottomSheetData": null,
+                            "baseInfo": {
+                                "action": {
+                                    "constraints": null,
+                                    "customTrackingEvents": null,
+                                    "fallback": null,
+                                    "loginType": "LOGIN_NOT_REQUIRED",
+                                    "nonWidgetizeRedirection": null,
+                                    "omnitureData": null,
+                                    "omnitureTracking": null,
+                                    "originalUrl": "/redmi-13c-starfrost-white-128-gb/p/itm77877eab8617d?pid=MOBGWV9ERZ8YACPA&lid=LSTMOBGWV9ERZ8YACPA7PIG0S&marketplace=FLIPKART",
+                                    "params": {
+                                        "valid": true,
+                                        "marketplace": "FLIPKART",
+                                        "pids": [
+                                            "MOBGWV9ERZ8YACPA"
+                                        ],
+                                        "lids": [
+                                            "LSTMOBGWV9ERZ8YACPA7PIG0S"
+                                        ]
+                                    },
+                                    "requiredPermissionType": null,
+                                    "screenType": "productPage",
+                                    "storeValue": {},
+                                    "subType": null,
+                                    "tracking": {},
+                                    "triggerExtraStandardEvents": null,
+                                    "type": "NAVIGATION",
+                                    "url": "/redmi-13c-starfrost-white-128-gb/p/itm77877eab8617d?pid=MOBGWV9ERZ8YACPA&lid=LSTMOBGWV9ERZ8YACPA7PIG0S&marketplace=FLIPKART",
+                                    "validationMeta": null,
+                                    "widgetTracking": null,
+                                    "widgetizedActions": null
+                                },
+                                "metaData": null,
+                                "rcType": null,
+                                "tracking": null,
+                                "trackingData": null,
+                                "value": {
+                                    "type": "BaseProductInfoValue",
+                                    "callouts": [],
+                                    "id": "MOBGWV9ERZ8YACPA",
+                                    "listingId": "LSTMOBGWV9ERZ8YACPA7PIG0S",
+                                    "media": {
+                                        "images": [
+                                            {
+                                                "aspectRatio": null,
+                                                "contentInfo": null,
+                                                "height": null,
+                                                "url": "http://rukmini1.flixcart.com/image/{@width}/{@height}/xif0q/mobile/t/f/a/-original-imahfk4xp4xcggyt.jpeg?q={@quality}",
+                                                "width": null
+                                            }
+                                        ]
+                                    },
+                                    "quantity": 4,
+                                    "ratingValue": {
+                                        "type": "RatingValue",
+                                        "average": 4.2,
+                                        "base": 5,
+                                        "count": 13843,
+                                        "roundOffCount": "13.8K+"
+                                    },
+                                    "titles": {
+                                        "subtitle": "6 GB RAM",
+                                        "title": "REDMI 13C (Starfrost White, 128 GB)"
+                                    }
+                                }
+                            },
+                            "callouts": [],
+                            "calloutsV2": {},
+                            "children": [],
+                            "deliveryInfo": {
+                                "deliverySla": [
+                                    {
+                                        "gradient": null,
+                                        "prices": [
+                                            {
+                                                "childMultiCurrencyPriceList": [],
+                                                "collapsed": null,
+                                                "currency": "INR",
+                                                "feeLabelPrice": 0,
+                                                "formattedLabel": null,
+                                                "formattedSubLabel": null,
+                                                "icon": null,
+                                                "info": null,
+                                                "label": null,
+                                                "noteKey": null,
+                                                "prefixText": null,
+                                                "priceType": "PRICE",
+                                                "strikeOff": true,
+                                                "subLabel": null,
+                                                "tracking": null,
+                                                "value": 160
+                                            },
+                                            {
+                                                "childMultiCurrencyPriceList": [],
+                                                "collapsed": null,
+                                                "currency": "INR",
+                                                "feeLabelPrice": 0,
+                                                "formattedLabel": null,
+                                                "formattedSubLabel": null,
+                                                "icon": null,
+                                                "info": null,
+                                                "label": null,
+                                                "noteKey": null,
+                                                "prefixText": null,
+                                                "priceType": "PRICE",
+                                                "strikeOff": false,
+                                                "subLabel": null,
+                                                "tracking": null,
+                                                "value": 0
+                                            }
+                                        ],
+                                        "slaMessageConstruct": {
+                                            "expressDeliveryCallout": null,
+                                            "expressDeliveryIcon": null,
+                                            "formattedText": null,
+                                            "level": "info",
+                                            "rcFormattedText": null,
+                                            "renderableFormattedMessageValueList": null,
+                                            "text": "Delivery by Tue Sep 17"
+                                        },
+                                        "urgency": null
+                                    }
+                                ],
+                                "metaInfo": null,
+                                "replacementInfo": null
+                            },
+                            "forwardServices": [],
+                            "inlineNudgeActions": null,
+                            "listingAnnouncements": [],
+                            "newFreebieDetails": null,
+                            "nonBuyableExperience": false,
+                            "nudges": [],
+                            "pnpInfo": {
+                                "offerSummary": {
+                                    "appliedMessage": "1 offer applied",
+                                    "availableMessage": "2 offers available",
+                                    "nepData": null,
+                                    "nepOfferPageCallout": null,
+                                    "separator": "https://rukminim1.flixcart.com/www/{@width}/{@height}/promos/28/06/2019/16d5f3c0-3fe6-46e7-9d12-5d0b89ce2229.png?q={@quality}",
+                                    "trackingData": {
+                                        "availableMessageCount": 2,
+                                        "contentType": "productCard",
+                                        "d2rAvailableMessageCount": 0,
+                                        "pageName": "Cart:ViewFlipkartTab",
+                                        "pageType": "Cart",
+                                        "widgetImpressionId": "ace7c1b2-6d2c-4b94-99cf-624911f81c4c",
+                                        "widgetType": "CART_PAGE_PRODUCT_CARD"
+                                    },
+                                    "urgencyMarkerData": null
+                                },
+                                "popUpDetails": {
+                                    "knowMore": null,
+                                    "offers": {
+                                        "conditionalPromotions": [
+                                            {
+                                                "ctaInfo": null,
+                                                "messageType": "CONDITIONAL",
+                                                "promotionAmount": 0.0,
+                                                "promotionAmountText": null,
+                                                "promotionMessage": "10% Instant Discount upto ₹500 on first Flipkart Pay Later EMI Transaction",
+                                                "tncInfo": {
+                                                    "action": null,
+                                                    "metaData": null,
+                                                    "rcType": null,
+                                                    "tracking": null,
+                                                    "trackingData": null,
+                                                    "value": {
+                                                        "type": "TnCInfo",
+                                                        "tncAvailable": true,
+                                                        "tncDisplayName": "T&C"
+                                                    }
+                                                },
+                                                "warning": null
+                                            },
+                                            {
+                                                "ctaInfo": null,
+                                                "messageType": "CONDITIONAL",
+                                                "promotionAmount": 0.0,
+                                                "promotionAmountText": null,
+                                                "promotionMessage": "5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
+                                                "tncInfo": {
+                                                    "action": null,
+                                                    "metaData": null,
+                                                    "rcType": null,
+                                                    "tracking": null,
+                                                    "trackingData": null,
+                                                    "value": {
+                                                        "type": "TnCInfo",
+                                                        "tncAvailable": true,
+                                                        "tncDisplayName": "T&C"
+                                                    }
+                                                },
+                                                "warning": null
+                                            }
+                                        ],
+                                        "appliedOffers": [
+                                            {
+                                                "ctaInfo": null,
+                                                "messageType": null,
+                                                "promotionAmount": 0.0,
+                                                "promotionAmountText": null,
+                                                "promotionMessage": "Make a purchase and enjoy a surprise cashback/ coupon that you can redeem later!",
+                                                "tncInfo": {
+                                                    "action": null,
+                                                    "metaData": null,
+                                                    "rcType": null,
+                                                    "tracking": null,
+                                                    "trackingData": null,
+                                                    "value": {
+                                                        "type": "TnCInfo",
+                                                        "tncAvailable": true,
+                                                        "tncDisplayName": "Know More"
+                                                    }
+                                                },
+                                                "warning": null
+                                            }
+                                        ]
+                                    },
+                                    "offersTitle": "Save more with these offers",
+                                    "priceDescriptions": null,
+                                    "priceDetails": {
+                                        "finalPrice": {
+                                            "childMultiCurrencyPriceList": [],
+                                            "collapsed": null,
+                                            "currency": "INR",
+                                            "feeLabelPrice": 0,
+                                            "formattedLabel": null,
+                                            "formattedSubLabel": null,
+                                            "icon": null,
+                                            "info": null,
+                                            "label": "Total",
+                                            "noteKey": null,
+                                            "prefixText": null,
+                                            "priceType": "PRICE",
+                                            "strikeOff": false,
+                                            "subLabel": null,
+                                            "tracking": null,
+                                            "value": 33996
+                                        },
+                                        "finalPriceComponents": {
+                                            "formattedLabel": null,
+                                            "formattedSubLabel": null,
+                                            "label": "Total",
+                                            "prices": [
+                                                {
+                                                    "childMultiCurrencyPriceList": [],
+                                                    "collapsed": null,
+                                                    "currency": "INR",
+                                                    "feeLabelPrice": 0,
+                                                    "formattedLabel": null,
+                                                    "formattedSubLabel": null,
+                                                    "icon": null,
+                                                    "info": null,
+                                                    "label": "Total",
+                                                    "noteKey": null,
+                                                    "prefixText": null,
+                                                    "priceType": "PRICE",
+                                                    "strikeOff": false,
+                                                    "subLabel": null,
+                                                    "tracking": null,
+                                                    "value": 33996
+                                                }
+                                            ],
+                                            "subLabel": null
+                                        },
+                                        "multiCurrencyfinalPrice": {
+                                            "childMultiCurrencyPriceList": [],
+                                            "coinValue": 0,
+                                            "collapsed": null,
+                                            "currency": "INR",
+                                            "feeLabelPrice": 0,
+                                            "formattedLabel": null,
+                                            "formattedSubLabel": null,
+                                            "icon": null,
+                                            "info": null,
+                                            "inrSavings": 0,
+                                            "label": "Total",
+                                            "multiCurrencyPrice": {
+                                                "type": "FormattedMessageValue",
+                                                "data": [
+                                                    {
+                                                        "value": {
+                                                            "type": "RichTextValue",
+                                                            "text": "₹33,996"
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            "noteKey": null,
+                                            "prefixText": null,
+                                            "priceType": "PRICE",
+                                            "strikeOff": false,
+                                            "subLabel": null,
+                                            "tracking": null,
+                                            "value": 33996
+                                        },
+                                        "prebookPriceItems": null,
+                                        "priceLineItems": [
+                                            {
+                                                "childMultiCurrencyPriceList": [],
+                                                "collapsed": null,
+                                                "currency": "INR",
+                                                "feeLabelPrice": 0,
+                                                "formattedLabel": null,
+                                                "formattedSubLabel": null,
+                                                "icon": null,
+                                                "info": null,
+                                                "label": "MRP",
+                                                "noteKey": null,
+                                                "prefixText": null,
+                                                "priceType": "PRICE",
+                                                "strikeOff": true,
+                                                "subLabel": null,
+                                                "tracking": null,
+                                                "value": 55996
+                                            },
+                                            {
+                                                "childMultiCurrencyPriceList": [],
+                                                "collapsed": null,
+                                                "currency": "INR",
+                                                "feeLabelPrice": 0,
+                                                "formattedLabel": null,
+                                                "formattedSubLabel": null,
+                                                "icon": null,
+                                                "info": null,
+                                                "label": "Selling Price",
+                                                "noteKey": null,
+                                                "prefixText": null,
+                                                "priceType": "PRICE",
+                                                "strikeOff": false,
+                                                "subLabel": null,
+                                                "tracking": null,
+                                                "value": 39988
+                                            },
+                                            {
+                                                "childMultiCurrencyPriceList": [],
+                                                "collapsed": null,
+                                                "currency": "INR",
+                                                "feeLabelPrice": 0,
+                                                "formattedLabel": null,
+                                                "formattedSubLabel": null,
+                                                "icon": null,
+                                                "info": null,
+                                                "label": "Extra Discount",
+                                                "noteKey": null,
+                                                "prefixText": null,
+                                                "priceType": "DISCOUNT",
+                                                "strikeOff": false,
+                                                "subLabel": null,
+                                                "tracking": null,
+                                                "value": 5992
+                                            },
+                                            {
+                                                "childMultiCurrencyPriceList": [],
+                                                "collapsed": null,
+                                                "currency": "INR",
+                                                "feeLabelPrice": 0,
+                                                "formattedLabel": null,
+                                                "formattedSubLabel": null,
+                                                "icon": null,
+                                                "info": null,
+                                                "label": "Special Price",
+                                                "noteKey": null,
+                                                "prefixText": null,
+                                                "priceType": "PRICE",
+                                                "strikeOff": false,
+                                                "subLabel": null,
+                                                "tracking": null,
+                                                "value": 33996
+                                            }
+                                        ]
+                                    },
+                                    "savingsSummary": null,
+                                    "tracking": {
+                                        "pageType": "Cart",
+                                        "widgetImpressionId": "5f2d05b5-c3ac-4d75-b2c2-512cf3b80f93",
+                                        "contentType": "productCard",
+                                        "pageName": "Cart:ViewFlipkartTab",
+                                        "widgetType": "CART_PAGE_PRODUCT_CARD"
+                                    }
+                                },
+                                "preBookInfo": null,
+                                "pricingInfo": {
+                                    "announcements": null,
+                                    "coinPrice": null,
+                                    "message": [],
+                                    "packagingCharges": {
+                                        "type": "FormattedMessageValue",
+                                        "data": [
+                                            {
+                                                "type": "FormattedRichTextData",
+                                                "value": {
+                                                    "type": "RichTextValue",
+                                                    "text": "+ ₹116 Secured Packaging Fee"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    "prices": [
+                                        {
+                                            "childMultiCurrencyPriceList": [],
+                                            "collapsed": null,
+                                            "currency": "INR",
+                                            "feeLabelPrice": 0,
+                                            "formattedLabel": null,
+                                            "formattedSubLabel": null,
+                                            "icon": null,
+                                            "info": null,
+                                            "label": null,
+                                            "noteKey": null,
+                                            "prefixText": null,
+                                            "priceType": "PRICE",
+                                            "strikeOff": true,
+                                            "subLabel": null,
+                                            "tracking": null,
+                                            "value": 55996
+                                        },
+                                        {
+                                            "childMultiCurrencyPriceList": [],
+                                            "collapsed": null,
+                                            "currency": "INR",
+                                            "feeLabelPrice": 0,
+                                            "formattedLabel": null,
+                                            "formattedSubLabel": null,
+                                            "icon": null,
+                                            "info": null,
+                                            "label": null,
+                                            "noteKey": null,
+                                            "prefixText": null,
+                                            "priceType": "PRICE",
+                                            "strikeOff": false,
+                                            "subLabel": null,
+                                            "tracking": null,
+                                            "value": 33996
+                                        },
+                                        {
+                                            "childMultiCurrencyPriceList": [],
+                                            "collapsed": null,
+                                            "currency": "INR",
+                                            "feeLabelPrice": 0,
+                                            "formattedLabel": null,
+                                            "formattedSubLabel": null,
+                                            "icon": null,
+                                            "info": null,
+                                            "label": null,
+                                            "noteKey": null,
+                                            "prefixText": null,
+                                            "priceType": "DISCOUNT_PERCENT",
+                                            "strikeOff": false,
+                                            "subLabel": null,
+                                            "tracking": null,
+                                            "value": 39
+                                        }
+                                    ],
+                                    "showPrice": true,
+                                    "tags": null,
+                                    "valueAddedBenefits": null
+                                },
+                                "selectedOfferDetails": null
+                            },
+                            "preOrder": false,
+                            "productAnnouncements": null,
+                            "productCardTagDetails": [
+                                {
+                                    "image": {
+                                        "type": "ImageValue",
+                                        "aspectRatio": "3:1",
+                                        "dynamicImageUrl": "https://rukminim1.flixcart.com/www/{@width}/{@height}/promos/07/06/2022/b83cee93-e815-4232-bba2-c209116588de.png?q={@quality}",
+                                        "height": 0,
+                                        "width": 60
+                                    },
+                                    "tagDetails": null,
+                                    "type": "F_ASSURED"
+                                }
+                            ],
+                            "quantityMetaData": {
+                                "action": null,
+                                "calloutAfterMinQuantitySelection": null,
+                                "calloutBeforeMinQuantitySelection": null,
+                                "discountText": null,
+                                "hurdleQuantity": null,
+                                "maxQuantity": 978,
+                                "minQuantity": 1,
+                                "quantitySelectorCallout": null,
+                                "restrictQuantityUpdate": false,
+                                "toggleAction": null
+                            },
+                            "recommendations": [
+                                {
+                                    "actions": [
+                                        {
+                                            "action": {
+                                                "constraints": null,
+                                                "customTrackingEvents": null,
+                                                "fallback": null,
+                                                "loginType": "LOGIN_NOT_REQUIRED",
+                                                "nonWidgetizeRedirection": null,
+                                                "omnitureData": null,
+                                                "omnitureTracking": null,
+                                                "originalUrl": null,
+                                                "params": {
+                                                    "pageNumber": 1,
+                                                    "listingId": "LSTDLCHFB8YY3DMZ3XY0T4H5B",
+                                                    "productId": "DLCHFB8YY3DMZ3XY",
+                                                    "pageUri": "/viewcart?exploreMode=true&marketplace=FLIPKART"
+                                                },
+                                                "requiredPermissionType": null,
+                                                "screenType": "multiWidgetPage",
+                                                "storeValue": {},
+                                                "subType": null,
+                                                "tracking": {
+                                                    "findingMethod": "cart_page_digitalAttach"
+                                                },
+                                                "triggerExtraStandardEvents": null,
+                                                "type": "CART_ADD_DETAILS",
+                                                "url": null,
+                                                "validationMeta": null,
+                                                "widgetTracking": null,
+                                                "widgetizedActions": null
+                                            },
+                                            "metaData": null,
+                                            "rcType": null,
+                                            "tracking": null,
+                                            "trackingData": null,
+                                            "value": {
+                                                "type": "RichButtonValue",
+                                                "title": "Add for ₹549"
+                                            }
+                                        }
+                                    ],
+                                    "productInfo": {
+                                        "action": null,
+                                        "metaData": null,
+                                        "rcType": null,
+                                        "tracking": {
+                                            "impressionId": "e1d1e9a3-bfe3-4cb5-ad02-46fd2ac9f574.DLCHFB8YY3DMZ3XY",
+                                            "sProduct": ";DLCHFB8YY3DMZ3XY;;;;eVar19=DigitalComboVAS|eVar22=Mobile|eVar93=FLIPKART|eVar88=LSTDLCHFB8YY3DMZ3XY0T4H5B|eVar84=640_640_540_15_15|evar67=0_0_0_0|evar44=92c6c3df2a8549f0_nFA|eVar75=LSTMOBGWV9ERZ8YACPA7PIG0S",
+                                            "sellerId": "92c6c3df2a8549f0",
+                                            "productId": "DLCHFB8YY3DMZ3XY",
+                                            "marketPlace": "FLIPKART",
+                                            "discount": "100",
+                                            "otracker": "0",
+                                            "position": "0",
+                                            "category": "Mobile",
+                                            "recommendationType": "DigitalAttachValue"
+                                        },
+                                        "trackingData": null,
+                                        "value": {
+                                            "recommendationType": "DIGITAL_ATTACH",
+                                            "type": "DigitalAttachValue",
+                                            "description": "This screen damage protection contract governs the registration and support process for screen damages to Xiaomi Devices sold by Authorized Sales Channels of Xiaomi in India in its original packaging.",
+                                            "id": "DLCHFB8YY3DMZ3XY",
+                                            "knowMore": {
+                                                "action": {
+                                                    "constraints": [
+                                                        {
+                                                            "metaInfo": {
+                                                                "openInBottomSheet": "true",
+                                                                "url": "/login?type=mobile&sourceContext=default"
+                                                            },
+                                                            "type": "LOGIN"
+                                                        }
+                                                    ],
+                                                    "customTrackingEvents": null,
+                                                    "fallback": null,
+                                                    "loginType": "LEGACY_LOGIN",
+                                                    "nonWidgetizeRedirection": null,
+                                                    "omnitureData": null,
+                                                    "omnitureTracking": null,
+                                                    "originalUrl": "https://www.flipkart.com/pages/mi-screen-protect-tnc",
+                                                    "params": {
+                                                        "valid": true,
+                                                        "url": "https://www.flipkart.com/pages/mi-screen-protect-tnc"
+                                                    },
+                                                    "requiredPermissionType": null,
+                                                    "screenType": "webView",
+                                                    "storeValue": {},
+                                                    "subType": null,
+                                                    "tracking": {},
+                                                    "triggerExtraStandardEvents": null,
+                                                    "type": "NAVIGATION",
+                                                    "url": "https://www.flipkart.com/pages/mi-screen-protect-tnc",
+                                                    "validationMeta": null,
+                                                    "widgetTracking": null,
+                                                    "widgetizedActions": null
+                                                },
+                                                "metaData": null,
+                                                "rcType": null,
+                                                "tracking": null,
+                                                "trackingData": null,
+                                                "value": {
+                                                    "type": "TextValue",
+                                                    "text": "Know More"
+                                                }
+                                            },
+                                            "listingId": "LSTDLCHFB8YY3DMZ3XY0T4H5B",
+                                            "media": {
+                                                "images": [
+                                                    {
+                                                        "aspectRatio": null,
+                                                        "contentInfo": null,
+                                                        "height": null,
+                                                        "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/xif0q/digital-combo/k/1/i/-original-imahfgxvwbwggh7g.jpeg?q={@quality}",
+                                                        "width": null
+                                                    }
+                                                ]
+                                            },
+                                            "pricingInfo": {
+                                                "type": "ListingPriceValue",
+                                                "couponApplied": null,
+                                                "deliveryCharge": {
+                                                    "additionalText": null,
+                                                    "currency": "INR",
+                                                    "decimalValue": "0.00",
+                                                    "discount": null,
+                                                    "downpaymentRate": 0.0,
+                                                    "downpaymentRequired": false,
+                                                    "name": "Delivery Charges",
+                                                    "priceType": null,
+                                                    "strikeOff": false,
+                                                    "textStyle": null,
+                                                    "value": 0
+                                                },
+                                                "discountAmount": 100,
+                                                "emiPrice": null,
+                                                "extraDiscount": null,
+                                                "finalPrice": {
+                                                    "additionalText": null,
+                                                    "currency": "INR",
+                                                    "decimalValue": "549.00",
+                                                    "discount": null,
+                                                    "downpaymentRate": 0.0,
+                                                    "downpaymentRequired": false,
+                                                    "name": "Total",
+                                                    "priceType": null,
+                                                    "strikeOff": false,
+                                                    "textStyle": null,
+                                                    "value": 549
+                                                },
+                                                "finalSavingsText": null,
+                                                "insuredPrice": null,
+                                                "knowMore": null,
+                                                "listingPriceType": "REGULAR",
+                                                "mrp": {
+                                                    "additionalText": "(incl. of all taxes)",
+                                                    "currency": "INR",
+                                                    "decimalValue": "649.00",
+                                                    "discount": null,
+                                                    "downpaymentRate": 0.0,
+                                                    "downpaymentRequired": false,
+                                                    "name": "Maximum Retail Price",
+                                                    "priceType": null,
+                                                    "strikeOff": true,
+                                                    "textStyle": null,
+                                                    "value": 649
+                                                },
+                                                "partPriceInfo": null,
+                                                "plusPriceInfo": null,
+                                                "priceDescriptions": null,
+                                                "pricePerUnit": null,
+                                                "priceTags": null,
+                                                "prices": [
+                                                    {
+                                                        "additionalText": null,
+                                                        "currency": "INR",
+                                                        "decimalValue": "649.00",
+                                                        "discount": 15,
+                                                        "downpaymentRate": 0.0,
+                                                        "downpaymentRequired": false,
+                                                        "name": "Selling Price",
+                                                        "priceType": "FSP",
+                                                        "strikeOff": true,
+                                                        "textStyle": null,
+                                                        "value": 649
+                                                    },
+                                                    {
+                                                        "additionalText": null,
+                                                        "currency": "INR",
+                                                        "decimalValue": "549.00",
+                                                        "discount": null,
+                                                        "downpaymentRate": 0.0,
+                                                        "downpaymentRequired": false,
+                                                        "name": "Special Price",
+                                                        "priceType": "SPECIAL_PRICE",
+                                                        "strikeOff": false,
+                                                        "textStyle": null,
+                                                        "value": 549
+                                                    }
+                                                ],
+                                                "selected": null,
+                                                "showDiscountAsAmount": false,
+                                                "title": null,
+                                                "totalDiscount": 15,
+                                                "upiPriceCallout": null,
+                                                "upiRegularPriceTitle": null
+                                            },
+                                            "titles": {
+                                                "subtitle": "1 Year",
+                                                "title": "Mi Screen Damage Protection"
+                                            }
+                                        }
+                                    },
+                                    "title": "Mi Screen Protect 1 Year"
+                                }
+                            ],
+                            "reservationInfo": null,
+                            "restrictQuantityUpdate": false,
+                            "reverseServiceInfo": null,
+                            "reverseServices": null,
+                            "selectionStatus": null,
+                            "selectiveCheckoutEligible": null,
+                            "seller": {
+                                "fAssured": true,
+                                "name": "Seller:XONIGHT E-Commerce",
+                                "sellerRating": null
+                            },
+                            "sellerChangedCallout": null,
+                            "tags": {
+                                "tagItems": [
+                                    {
+                                        "action": null,
+                                        "fomoUrgencyInfo": null,
+                                        "imageIcon": null,
+                                        "imagePosition": null,
+                                        "tag": null,
+                                        "tagItemInfo": null,
+                                        "title": {
+                                            "type": "FormattedMessageValue",
+                                            "data": [
+                                                {
+                                                    "type": "FormattedRichTextData",
+                                                    "value": {
+                                                        "type": "RichTextValue",
+                                                        "style": {
+                                                            "color": "#008C00",
+                                                            "fontFamily": "Roboto",
+                                                            "fontSize": 12,
+                                                            "fontStyle": "normal",
+                                                            "fontWeight": "normal",
+                                                            "textAlign": "left"
+                                                        },
+                                                        "text": "Hot Deal",
+                                                        "textColor": "#008C00",
+                                                        "textSize": 12
+                                                    }
+                                                }
+                                            ],
+                                            "style": {
+                                                "backgroundColor": "#F2F9F2",
+                                                "borderRadius": 2,
+                                                "padding": {
+                                                    "bottom": 2,
+                                                    "left": 4,
+                                                    "right": 4,
+                                                    "top": 2
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "urgency": {}
+                        },
+                        "subViewType": null
+                    },
+                    "params": {
+                        "isBrandedFasterDeliveryEligible": false
+                    },
+                    "tracking": {
+                        "productId": "MOBGWV9ERZ8YACPA",
+                        "marketPlace": "FLIPKART",
+                        "otracker": "CART_PAGE_PRODUCT_CARD_1",
+                        "sProductEvent": "",
+                        "widgetType": "CART_PAGE_PRODUCT_CARD",
+                        "impressionId": "e1d1e9a3-bfe3-4cb5-ad02-46fd2ac9f574.MOBGWV9ERZ8YACPA",
+                        "isFreebieAttached": "false",
+                        "sProductSuffix": "|eVar19=Handset|eVar22=Mobile|eVar93=FLIPKART|eVar86=8 to 8d_8d_8d_0d_Free_11pm:NA_NA_NA:NA_NA_NA:NA_NA:NA_NA_NA:REGULAR|eVar60=LSTMOBGWV9ERZ8YACPA7PIG0S:1725714086277|eVar164=na_1_3_na_na|eVar84=55990_55990_33990_39_39|evar67=4.2_500_10000_80|evar165=SP_V3_Discount_6000|eVar173=ValueDiscovery_na_na|eVar182=NotEligible",
+                        "viewType": "LeftAlignedFlipkart",
+                        "position": "1",
+                        "category": "Mobile",
+                        "contentType": "productCard",
+                        "isFSUPAttached": "false",
+                        "contentMarketPlace": "FLIPKART"
+                    }
+                }
+            },
+            {
+                "slotType": "WIDGET",
+                "id": 6,
+                "parentId": 10002,
+                "layoutParams": {
+                    "orientation": "",
+                    "stickyScroll": true,
+                    "widgetHeight": 150,
+                    "widgetWidth": 12
+                },
+                "dataId": "-810310058",
+                "elementId": "6-TRANSACT_ACTION",
+                "hasWidgetDataChanged": true,
+                "ttl": 3000,
+                "widget": {
+                    "type": "TRANSACT_ACTION",
+                    "viewType": "webView",
+                    "data": {
+                        "alternateNextAction": null,
+                        "animation": null,
+                        "backAction": null,
+                        "calloutMessage": null,
+                        "callouts": [],
+                        "emailInfo": null,
+                        "message": null,
+                        "nextAction": {
+                            "action": {
+                                "constraints": [
+                                    {
+                                        "metaInfo": {
+                                            "openInBottomSheet": "true",
+                                            "url": "/login?type=mobile&sourceContext=buy_now"
+                                        },
+                                        "type": "LOGIN"
+                                    }
+                                ],
+                                "customTrackingEvents": null,
+                                "fallback": null,
+                                "loginType": "CHECKOUT_LOGIN",
+                                "nonWidgetizeRedirection": null,
+                                "omnitureData": null,
+                                "omnitureTracking": null,
+                                "originalUrl": "https://www.flipkart.com/checkout/init?view=FLIPKART&loginFlow=false",
+                                "params": {
+                                    "valid": true,
+                                    "url": "https://www.flipkart.com/checkout/init?view=FLIPKART&loginFlow=false"
+                                },
+                                "requiredPermissionType": null,
+                                "screenType": "webView",
+                                "storeValue": {},
+                                "subType": null,
+                                "tracking": {},
+                                "triggerExtraStandardEvents": null,
+                                "type": "NAVIGATION",
+                                "url": "https://www.flipkart.com/checkout/init?view=FLIPKART&loginFlow=false",
+                                "validationMeta": null,
+                                "widgetTracking": null,
+                                "widgetizedActions": null
+                            },
+                            "metaData": null,
+                            "rcType": "CART_PAGE_PLACE_ORDER_RC",
+                            "tracking": null,
+                            "trackingData": null,
+                            "value": {
+                                "type": "TransactActionButtonValue",
+                                "title": "Place Order"
+                            }
+                        },
+                        "priceDetails": null
+                    }
+                }
+            },
+            {
+                "slotType": "LOGICAL",
+                "id": 10004,
+                "parentId": 10000,
+                "layoutParams": {
+                    "margin": "16,0,0,0",
+                    "orientation": "",
+                    "stickyScroll": true,
+                    "widgetHeight": 150,
+                    "widgetWidth": 4
+                },
+                "childArrangement": "STACK"
+            },
+            {
+                "slotType": "WIDGET",
+                "id": 11,
+                "parentId": 10004,
+                "layoutParams": {
+                    "flexibleWidth": false,
+                    "orientation": "",
+                    "stickyScroll": false,
+                    "widgetHeight": 150,
+                    "widgetWidth": 12
+                },
+                "dataId": "-364938188",
+                "elementId": "11-TRANSACT_PRICE_SUMMARY",
+                "hasWidgetDataChanged": true,
+                "ttl": 3000,
+                "widget": {
+                    "type": "TRANSACT_PRICE_SUMMARY",
+                    "data": {
+                        "coinsEarning": null,
+                        "coinsSummary": null,
+                        "deferredPrices": [],
+                        "finalPrice": {
+                            "childMultiCurrencyPriceList": [],
+                            "collapsed": null,
+                            "currency": "INR",
+                            "feeLabelPrice": 0,
+                            "formattedLabel": null,
+                            "formattedSubLabel": null,
+                            "icon": null,
+                            "info": null,
+                            "label": "Total Amount",
+                            "noteKey": null,
+                            "prefixText": null,
+                            "priceType": "PAYABLE_AMOUNT",
+                            "strikeOff": false,
+                            "subLabel": null,
+                            "tracking": null,
+                            "value": 34112
+                        },
+                        "finalPriceComponents": {
+                            "formattedLabel": null,
+                            "formattedSubLabel": null,
+                            "label": "Total Amount",
+                            "prices": [
+                                {
+                                    "childMultiCurrencyPriceList": [],
+                                    "collapsed": null,
+                                    "currency": "INR",
+                                    "feeLabelPrice": 0,
+                                    "formattedLabel": null,
+                                    "formattedSubLabel": null,
+                                    "icon": null,
+                                    "info": null,
+                                    "label": null,
+                                    "noteKey": null,
+                                    "prefixText": null,
+                                    "priceType": "PAYABLE_AMOUNT",
+                                    "strikeOff": false,
+                                    "subLabel": null,
+                                    "tracking": null,
+                                    "value": 34112
+                                }
+                            ],
+                            "subLabel": null
+                        },
+                        "multiCurrencyPriceList": [
+                            {
+                                "formattedLabel": null,
+                                "formattedSubLabel": null,
+                                "label": "Price (1 item)",
+                                "prices": [
+                                    {
+                                        "childMultiCurrencyPriceList": [],
+                                        "collapsed": null,
+                                        "currency": "INR",
+                                        "feeLabelPrice": 0,
+                                        "formattedLabel": null,
+                                        "formattedSubLabel": null,
+                                        "icon": null,
+                                        "info": null,
+                                        "label": null,
+                                        "noteKey": null,
+                                        "prefixText": null,
+                                        "priceType": "EFFECTIVE_PRICE",
+                                        "strikeOff": false,
+                                        "subLabel": null,
+                                        "tracking": null,
+                                        "value": 55996
+                                    }
+                                ],
+                                "subLabel": null
+                            },
+                            {
+                                "formattedLabel": null,
+                                "formattedSubLabel": null,
+                                "label": "Discount",
+                                "prices": [
+                                    {
+                                        "childMultiCurrencyPriceList": [],
+                                        "collapsed": null,
+                                        "currency": "INR",
+                                        "feeLabelPrice": 0,
+                                        "formattedLabel": null,
+                                        "formattedSubLabel": null,
+                                        "icon": null,
+                                        "info": null,
+                                        "label": null,
+                                        "noteKey": null,
+                                        "prefixText": null,
+                                        "priceType": "DISCOUNT",
+                                        "strikeOff": false,
+                                        "subLabel": null,
+                                        "tracking": null,
+                                        "value": 22000
+                                    }
+                                ],
+                                "subLabel": null
+                            },
+                            {
+                                "formattedLabel": null,
+                                "formattedSubLabel": null,
+                                "label": "Delivery Charges",
+                                "prices": [
+                                    {
+                                        "childMultiCurrencyPriceList": [],
+                                        "collapsed": null,
+                                        "currency": "INR",
+                                        "feeLabelPrice": 0,
+                                        "formattedLabel": null,
+                                        "formattedSubLabel": null,
+                                        "icon": null,
+                                        "info": null,
+                                        "label": null,
+                                        "noteKey": null,
+                                        "prefixText": null,
+                                        "priceType": "PRICE",
+                                        "strikeOff": true,
+                                        "subLabel": null,
+                                        "tracking": null,
+                                        "value": 160
+                                    },
+                                    {
+                                        "childMultiCurrencyPriceList": [],
+                                        "collapsed": null,
+                                        "currency": "INR",
+                                        "feeLabelPrice": 0,
+                                        "formattedLabel": null,
+                                        "formattedSubLabel": null,
+                                        "icon": null,
+                                        "info": null,
+                                        "label": null,
+                                        "noteKey": null,
+                                        "prefixText": null,
+                                        "priceType": "PRICE",
+                                        "strikeOff": false,
+                                        "subLabel": null,
+                                        "tracking": null,
+                                        "value": 0
+                                    }
+                                ],
+                                "subLabel": null
+                            },
+                            {
+                                "formattedLabel": null,
+                                "formattedSubLabel": null,
+                                "label": "Secured Packaging Fee",
+                                "prices": [
+                                    {
+                                        "childMultiCurrencyPriceList": [],
+                                        "collapsed": null,
+                                        "currency": "INR",
+                                        "feeLabelPrice": 0,
+                                        "formattedLabel": null,
+                                        "formattedSubLabel": null,
+                                        "icon": null,
+                                        "info": null,
+                                        "label": null,
+                                        "noteKey": null,
+                                        "prefixText": null,
+                                        "priceType": "PRICE",
+                                        "strikeOff": false,
+                                        "subLabel": null,
+                                        "tracking": null,
+                                        "value": 116
+                                    }
+                                ],
+                                "subLabel": null
+                            }
+                        ],
+                        "notes": {},
+                        "partPaymentComponents": null,
+                        "payLaterPrice": null,
+                        "priceList": [],
+                        "prices": [
+                            {
+                                "childMultiCurrencyPriceList": [],
+                                "collapsed": null,
+                                "currency": "INR",
+                                "feeLabelPrice": 0,
+                                "formattedLabel": null,
+                                "formattedSubLabel": null,
+                                "icon": null,
+                                "info": null,
+                                "label": "Price (1 item)",
+                                "noteKey": null,
+                                "prefixText": null,
+                                "priceType": "EFFECTIVE_PRICE",
+                                "strikeOff": false,
+                                "subLabel": null,
+                                "tracking": null,
+                                "value": 55996
+                            },
+                            {
+                                "childMultiCurrencyPriceList": [],
+                                "collapsed": null,
+                                "currency": "INR",
+                                "feeLabelPrice": 0,
+                                "formattedLabel": null,
+                                "formattedSubLabel": null,
+                                "icon": null,
+                                "info": null,
+                                "label": "Discount",
+                                "noteKey": null,
+                                "prefixText": null,
+                                "priceType": "DISCOUNT",
+                                "strikeOff": false,
+                                "subLabel": null,
+                                "tracking": null,
+                                "value": 22000
+                            },
+                            {
+                                "childMultiCurrencyPriceList": [],
+                                "collapsed": null,
+                                "currency": "INR",
+                                "feeLabelPrice": 0,
+                                "formattedLabel": null,
+                                "formattedSubLabel": null,
+                                "icon": null,
+                                "info": null,
+                                "label": "Secured Packaging Fee",
+                                "noteKey": null,
+                                "prefixText": null,
+                                "priceType": "PRICE",
+                                "strikeOff": false,
+                                "subLabel": null,
+                                "tracking": null,
+                                "value": 116
+                            },
+                            {
+                                "childMultiCurrencyPriceList": [],
+                                "collapsed": null,
+                                "currency": "INR",
+                                "feeLabelPrice": 0,
+                                "formattedLabel": null,
+                                "formattedSubLabel": null,
+                                "icon": null,
+                                "info": null,
+                                "label": "Delivery Charges",
+                                "noteKey": null,
+                                "prefixText": null,
+                                "priceType": "PRICE",
+                                "strikeOff": false,
+                                "subLabel": null,
+                                "tracking": null,
+                                "value": 0
+                            }
+                        ],
+                        "refundDetails": null,
+                        "savingsSummary": "You will save ₹21,884 on this order",
+                        "title": "Price Details",
+                        "tncDetails": null,
+                        "totalSavingsPrice": null
+                    }
+                }
+            },
+            {
+                "slotType": "LOGICAL",
+                "id": 10005,
+                "parentId": 10004,
+                "layoutParams": {
+                    "margin": "0,20,0,0",
+                    "orientation": "",
+                    "widgetHeight": 150,
+                    "widgetWidth": 12
+                },
+                "childArrangement": "STACK"
+            },
+            {
+                "slotType": "WIDGET",
+                "id": 13,
+                "parentId": 10005,
+                "layoutParams": {
+                    "orientation": "",
+                    "widgetHeight": 150,
+                    "widgetWidth": 12
+                },
+                "dataId": "1031336439",
+                "elementId": "13-TESTIMONIAL",
+                "hasWidgetDataChanged": true,
+                "ttl": 3000,
+                "widget": {
+                    "type": "TESTIMONIAL",
+                    "data": {
+                        "action": null,
+                        "message": {
+                            "action": null,
+                            "metaData": null,
+                            "rcType": null,
+                            "tracking": null,
+                            "trackingData": null,
+                            "value": {
+                                "type": "RichMessageValue",
+                                "image": {
+                                    "type": "ImageValue",
+                                    "dynamicImageUrl": "https://rukminim1.flixcart.com/www/{@width}/{@height}/promos/13/02/2019/9b179a8a-a0e2-497b-bd44-20aa733dc0ec.png?q={@quality}",
+                                    "height": 0,
+                                    "width": 0
+                                },
+                                "title": {
+                                    "type": "RichTextValue",
+                                    "title": "Safe and secure payments. Easy returns. 100% Authentic products."
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    "SESSION": {
+        "accountId": "ACC45D1829524044EC4B4C34BD4BB5A3E2BJ",
+        "asn": null,
+        "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjhlM2ZhMGE3LTJmZDMtNGNiMi05MWRjLTZlNTMxOGU1YTkxZiJ9.eyJleHAiOjE3MjU5MDMyMDcsImlhdCI6MTcyNTkwMTQwNywiaXNzIjoia2V2bGFyIiwianRpIjoiZmRmOGI2MjAtYzdlZC00N2M3LThjYmItMGNhOWU0MjU5ODQxIiwidHlwZSI6IkFUIiwiZElkIjoiY2xya3QzamtyMGFiMjF0ZWlqcjYyM3U2ei1CUjE3MDU2Nzg3NjY4MTEiLCJiSWQiOiJNVlNDN1ciLCJrZXZJZCI6IlZJOTg5MTNEN0NEQjMyNEQ4QjlCQ0NDRDU3NEEwQjU0Q0QiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6ImtTdXFGTjhocm9IVW16d3dYRmRQVlpZdWM2cE5DbzFzVmd3TXpMR0U4S3NBMWQ4d0tFMzVZQT09IiwidnMiOiJMSSIsInoiOiJIWUQiLCJtIjp0cnVlLCJnZW4iOjR9.E2XMBIDOMwmA8OLhhm5xmHUKAq9XfjZzXem1fVaY54U",
+        "email": "sunamkundal01@gmail.com",
+        "firstName": "Sunam",
+        "flipkartFirstUser": false,
+        "isLoggedIn": true,
+        "kAction": null,
+        "lastName": "Kundal",
+        "nsid": "3.VI98913D7CDB324D8B9BCCCD574A0B54CD.1725901477746.VI98913D7CDB324D8B9BCCCD574A0B54CD",
+        "rt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNhNzdlZTgxLTRjNWYtNGU5Ni04ZmRlLWM3YWMyYjVlOTA1NSJ9.eyJleHAiOjE3NDE1Mzk4MDcsImlhdCI6MTcyNTkwMTQwNywiaXNzIjoia2V2bGFyIiwianRpIjoiMTkzMGZlNzQtMTc2Zi00NTU1LWE3NTctN2IyYTI1OTVkZTEyIiwidHlwZSI6IlJUIiwiZElkIjoiY2xya3QzamtyMGFiMjF0ZWlqcjYyM3U2ei1CUjE3MDU2Nzg3NjY4MTEiLCJiSWQiOiJNVlNDN1ciLCJrZXZJZCI6IlZJOTg5MTNEN0NEQjMyNEQ4QjlCQ0NDRDU3NEEwQjU0Q0QiLCJ0SWQiOiJtYXBpIiwibSI6eyJ0eXBlIjoibiJ9LCJ2IjoiRTVJWkhIIn0.cufxWOAQjh2hVHkWqRMbvD2pwBBw3itXJdtvvF2OzEY",
+        "secureToken": "VI98913D7CDB324D8B9BCCCD574A0B54CD:VI98913D7CDB324D8B9BCCCD574A0B54CD",
+        "sn": "VI98913D7CDB324D8B9BCCCD574A0B54CD.TOKAFD7B744F9854A1EA52EF0D90FAC5D17.1725901477558.LI",
+        "ts": 0,
+        "twoFa": false,
+        "vid": "VI98913D7CDB324D8B9BCCCD574A0B54CD"
+    },
+    "STATUS_CODE": 200
+}
